@@ -1,0 +1,2 @@
+# Finding IDs the scanner must report for this fixture (one per line).
+# This app should be clean.

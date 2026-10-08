@@ -1,0 +1,6 @@
+// Minimal stand-in for an Xcode project: only the settings the scanner reads.
+		buildSettings = {
+			PRODUCT_BUNDLE_IDENTIFIER = com.example.risky;
+			TARGETED_DEVICE_FAMILY = "1,2";
+			INFOPLIST_KEY_CFBundleDisplayName = Risky;
+		};
